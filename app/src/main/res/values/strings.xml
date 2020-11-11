@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">BookATreat</string>
+
+    <string name="google_maps_key">AIzaSyCvZc5PgJL6yZFiSXQh5MuC-7hcjzxCN7U</string>
+
+    <!-- Login Strings -->
+    <string name="login_title">Login</string>
+    <string name="login_username">E-mail&#8230;</string>
+    <string name="login_password">Password&#8230;</string>
+    <string name="login_button">Login</string>
+    <string name="login_signup_button">Sign up here&#8230;</string>
+    <string name="sign_out">Sign out&#8230;</string>
+    <string name="delete_acc">Delete acc</string>
+    <string name="edit_settings">Edit information</string>
+    <string name="login_name">com.example.bookatreat.name</string>
+    <string name="login_checkbox">com.example.bookatreat.checkbox</string>
+    <string name="forgot_password">Forgot password..?</string>
+    <string name="login_checkbox_text">Remember my email</string>
+    <string name="email_sent">Email sent.</string>
+    <string name="invalid_email">Your email address is invalid</string>
+
+    <!-- Sign-up Strings -->
+    <string name="signup_title">Sign up</string>
+    <string name="signup_choice_customer">Customer</string>
+    <string name="signup_choice_restaurant">Restaurant</string>
+    <string name="signup_first_name">First Name</string>
+    <string name="signup_last_name">Last Name</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_password_confirmation">Confirm Password</string>
+    <string name="signup_email">E-mail</string>
+    <string name="signup_button">Sign up</string>
+    <string name="signup_existing_user">Already have an account?</string>
+    <string name="signup_restaurant_name">Restaurant Name</string>
+    <string name="signup_restaurant_description">Restaurant Description</string>
+    <string name="signup_restaurant_address">Restaurant Address</string>
+    <string name="title_activity_customer_maps">Map</string>
+
+    <!-- Exception Strings -->
+    <string name="weak_password_exception">Password needs to be at least 6 characters.</string>
+    <string name="wrong_email_format">Pleave enter a valid email.</string>
+    <string name="email_is_in_use">The entered email is already in use.</string>
+
+    <!-- CustomerSearch Strings -->
+    <string name="dialog_res_description">Restaurant Description:</string>
+    <string name="dialog_res_address">Address:</string>
+    <string name="dialog_res_mail">E-Mail:</string>
+    <string name="dialog_res_persons">Persons:</string>
+    <string name="search_box_text">Cuisine, restaurant name...</string>
+    <string name="maps_button_content_description">Maps Button</string>
+    <string name="customer_favorites_content_description">Favorites Button</string>
+
+    <!-- Customer ToolBar -->
+    <string name="toolbar_content_description">Button Bar</string>
+    <string name="toolbar_search_content_description">Search Button</string>
+    <string name="toolbar_favorites_content_description">Favorites Button</string>
+    <string name="toolbar_calendar_content_description">Calendar Button</string>
+    <string name="toolbar_message_content_description">Message Button</string>
+
+    <!-- Settings Button (In all toolbar frags)And settings strings -->
+    <string name="settings_button_content_description">Settings Button</string>
+    <string name="settings_title_textview">Settings</string>
+    <string name="save_information">Save Information</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">E-Mail</string>
+    <string name="description">Description</string>
+    <string name="address">Address</string>
+
+    <!-- Calendar Frag -->
+    <string name="calendar_title_textview">Calendar</string>
+
+    <!-- Favorites Frag -->
+    <string name="favorites_title_textview">Favorites</string>
+
+    <!-- Messages Frag -->
+    <string name="messages_title_textview">Messages</string>
+    <string name="restaurant_name_message_textview">Restaurant name</string>
+    <string name="restaurant_header_message_textview">Header</string>
+    <string name="restaurant_message_textview">This is where the message goes</string>
+
+
+    <!-- Manage Tables fragment -->
+    <string name="manage_title_textview">Manage tables</string>
+    <string name="manage_available_textview">Available tables</string>
+    <string name="manage_unavailable_textview">Unavailable tables</string>
+
+    <!-- Add table dialog -->
+    <string name="add_new_table_header">Add new table</string>
+    <string name="add_new_table_button">Add</string>
+    <string name="res_book">Book</string>
+
+
+    <!-- Edit table dialog -->
+    <string name="edit_table_id">Table id</string>
+    <string name="edit_table_id_hint">id</string>
+    <string name="edit_number_of_people">Number of people</string>
+    <string name="edit_number_of_people_hint">num</string>
+    <string name="edit_hour">Hour</string>
+    <string name="edit_choose_time">Choose time</string>
+    <string name="edit_edit_button">Edit</string>
+    <string name="edit_edit_and_book">Edit and book</string>
+    <string name="edit_edit_and_book_text">Edit and book a table</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="placeholder">placeholder</string>
+    <string name="hello_blank_fragment">Hello World!</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
